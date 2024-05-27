@@ -8,7 +8,8 @@ To get started with your NeoVim configuration, follow these simple steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    
-```git clone <repository-url>
+```bash
+git clone <repository-url>
 ```
 
 2. **Install NeoVim**: Ensure you have NeoVim installed on your system. You can install it via your package manager or download it from the [official NeoVim website](https://neovim.io/).
