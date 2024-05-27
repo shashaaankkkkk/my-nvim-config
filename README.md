@@ -7,5 +7,4 @@ Welcome to the NeoVim Configuration Repository! This repository contains all the
 To get started with your NeoVim configuration, follow these simple steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
-```git clone <repository-url>
-```
+```git clone <repository-url>```
